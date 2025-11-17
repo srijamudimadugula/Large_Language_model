@@ -63,9 +63,4 @@ It transforms extensive maintenance records into concise, actionable summaries f
 
 ***
 
-### Notes  
-This project is part of the AI Engineer Core Track course. It demonstrates practical use of Frontier models for text summarization tasks.
 
-***
-
-Feel free to adjust the repo URLs where relevant. Let me know if you want help automating README generation or with example code snippets!

@@ -1,5 +1,5 @@
 ### Large_Language_model
-##first project Frontier Model Maintenance Log Summarization
+## first project Frontier Model Maintenance Log Summarization
 Overview
 This project utilizes Frontier language models to summarize maintenance logs generated with realistic data from Perplexity. It aims to transform extensive maintenance records into concise, actionable summaries that facilitate easier understanding and reporting.
 

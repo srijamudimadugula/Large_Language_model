@@ -1,18 +1,4 @@
-Here is a properly structured, readable, and Markdown-formatted README for your GitHub repo with clear sections, spacing, and links:
-
-***
-
-# Large_Language_model
-[Repository Link](https://github.com/srijamudimadugula/Large_Language_model/tree/main#large_language_model)
-
-***
-
-## First Project: Frontier Model Maintenance Log Summarization  
-[Project Link](https://github.com/srijamudimadugula/Large_Language_model/tree/main#first-project-frontier-model-maintenance-log-summarization)
-
-***
-
-### Overview  
+ 
 This project utilizes Frontier language models to summarize maintenance logs generated with realistic data from Perplexity.  
 It transforms extensive maintenance records into concise, actionable summaries for easier understanding and reporting.
 
